@@ -1,5 +1,7 @@
 # R_for_data_science
 
+R Book : https://rafalab.github.io/dsbook/getting-started.html
+
 https://www.youtube.com/watch?v=gbOvtkIH5sQ
 
 + https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVpFaFA0YVFVUUVzdXQ3WVUwNmRkT0R3dTNNZ3xBQ3Jtc0ttM0FvYnQtRHdhbDNSYm9qU2lEbnF3b1EzSHVwT2pldE1uS0NBTWRha3JJOTUxeFZGTl9nM3NrMzJDVGUtX0hQVmhEaUpUWDN5bnJ4UDVfYjhYdThCeWxDZ3poUzZZUkExMEIxN3ZXNldicThMWE91cw&q=https%3A%2F%2Fonline-learning.harvard.edu%2Fsubject%2Fdata-science
